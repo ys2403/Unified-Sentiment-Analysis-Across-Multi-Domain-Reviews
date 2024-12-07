@@ -107,8 +107,4 @@ This project demonstrates that, with proper tuning, traditional models can rival
 
 ---
 
-## How to Run the Code
 
-1. **Install dependencies**: 
-   ```bash
-   pip install -r requirements.txt
